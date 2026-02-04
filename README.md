@@ -45,8 +45,8 @@ I utilize a diverse set of tools to clean, analyze, and visualize data:
 | Project | Tools Used | Description & Key Insights | View |
 | :--- | :---: | :--- | :---: |
 | **sales Analysis** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Analyzed sales data to identify top-performing products and revenue trends over time. Created an interactive dashboard with slicers. | [**View**](https://github.com/shikha-program/Sales-Analytics/tree/main) |
-| **Hospital Operations & Patient Analytics** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Interactive Power BI dashboard for monitoring hospital operations, patient flow, and resource utilization in real time. | [**View**](https://github.com/shikha-program/-Hospital-Operations-Patient-Analytics-Dashboard/tree/main) 
-| **** | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) | A deep dive into IPL match history, analyzing team win rates, toss decisions, and player performance stats. | [**View**]() |
+| **Hospital Operations & Patient Analytics** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Interactive Power BI dashboard for monitoring hospital operations, patient flow, and resource utilization in real time. | [**View**](https://github.com/shikha-program/-Hospital-Operations-Patient-Analytics-Dashboard/tree/main)| 
+|**HR Analytics Dashboard** | ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |HR Analytics Dashboard built using Excel and Power BI to analyze workforce trends, attrition, and performance insights.| [**View**](https://github.com/shikha-program/HR-Analytics-Workforce-Performance/tree/main) |
 
 ---
 
