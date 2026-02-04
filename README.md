@@ -53,7 +53,7 @@ I utilize a diverse set of tools to clean, analyze, and visualize data:
 ## 📈 Methodology
 
 My approach to data analysis involves:
-1.  **Data Collection & Cleaning:** Handling missing values, duplicates, and type conversion using **Pandas** or **Excel**.
+1.  **Data Collection & Cleaning:** Handling missing values, duplicates, and type conversion using **Pandas**, **Excel** and **Power BI**.
 2.  **Exploratory Data Analysis (EDA):** Finding patterns and correlations using statistical methods.
 3.  **Visualization:** Creating intuitive dashboards in **Power BI** or **Matplotlib/Seaborn**.
 4.  **Reporting:** Delivering clear, business-centric insights to stakeholders.
